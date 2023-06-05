@@ -1,18 +1,1 @@
-{
-    "identifier": "dumbdumb",
-    "name": "dumbdumb",
-    "baseUrl": "https://dumbdumb.fly.dev",
-    "authentication": {
-        "type": "none"
-    },
-    "modules": {
-        "custom-mt": [
-            {
-                "key": "custom-mt",
-                "name": "Custom MT",
-                "logo": "/logo.png",
-                "url": "/translate"
-            }
-        ]
-    }
-}
+{"identifier":"dumbdumb","name":"dumbdumb","baseUrl":"https://dumbdumb.fly.dev","authentication":{"type":"none"},"modules":{"custom-mt":[{"key":"custom-mt","name":"Custom MT","logo":"/logo.png","url":"/translate"}]}}
