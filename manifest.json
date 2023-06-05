@@ -1,0 +1,21 @@
+{
+    "identifier": "dumbdumb",
+    "name": "dumbdumb",
+    "baseUrl": "http://dumbdumb.fly.dev",
+    "authentication": {
+        "type": "none"
+    },
+    "scopes": [
+        "project"
+    ],
+    "modules": {
+        "custom-mt": [
+            {
+                "key": "custom-mt",
+                "name": "Custom MT",
+                "logo": "/logo.png",
+                "url": "/translate"
+            }
+        ]
+    }
+}
