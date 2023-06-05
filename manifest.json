@@ -1,13 +1,10 @@
 {
     "identifier": "dumbdumb",
     "name": "dumbdumb",
-    "baseUrl": "http://dumbdumb.fly.dev",
+    "baseUrl": "https://dumbdumb.fly.dev",
     "authentication": {
         "type": "none"
     },
-    "scopes": [
-        "project"
-    ],
     "modules": {
         "custom-mt": [
             {
